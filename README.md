@@ -24,7 +24,7 @@ The script uses the `random` module to generate 12 random digits, which represen
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/cdsvti/py-cnpjgenerator.git
 ```
 ```
 python main.py
